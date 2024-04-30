@@ -1,10 +1,12 @@
 # stm32-nucleo-g491re
 Tutorials repo for STM32 nucleo-g491re board.
 
-https://in.element14.com/productimages/large/en_GB/3648876-40.jpg
+![STM-G491RE](./Images/STM-g491re.png)
 
+STM32 Necleo-G491RE bo
 Common features:-
 --
+
 STM32 microcontroller in an LQFP64 or LQFP48 package
 
 - user LED shared with ARDUINO®
@@ -12,7 +14,7 @@ STM32 microcontroller in an LQFP64 or LQFP48 package
 - 32.768 kHz crystal oscillator
 
 Board connectors:
---
+---
 - ARDUINO® Uno V3 expansion connector
 - ST morpho extension pin headers for full access to all STM32 I/Os
   Flexible power-supply options: ST-LINK USB VBUS or external sources
@@ -22,7 +24,7 @@ Board connectors:
 - Support of a wide choice of Integrated Development Environments (IDEs) including IAR Embedded Workbench®, MDK-ARM, and STM32CubeIDE
 
 Board-specific features 
--- 
+---
 
 - External SMPS to generate Vcore logic supply
 - 24 MHz or 48 MHz HSE
@@ -30,7 +32,7 @@ Board-specific features
 - Cryptography
 
 Board connectors:
---
+---
 
 - External SMPS experimentation dedicated connector
 - USB Type-C®, Micro-B, or Mini-B connector for the ST-LINK
