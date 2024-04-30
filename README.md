@@ -1,7 +1,9 @@
 # stm32-nucleo-g491re
 Tutorials repo for STM32 nucleo-g491re board.
 
+<p align = "center">
 ![STM-G491RE](./Images/STM-g491re.png)
+</p>
 
 STM32 Necleo-G491RE bo
 Common features:-
